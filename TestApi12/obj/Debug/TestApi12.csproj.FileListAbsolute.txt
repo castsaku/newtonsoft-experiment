@@ -1,0 +1,14 @@
+C:\Users\andre\source\repos\TestApi12\TestApi12\bin\Debug\TestApi12.exe.config
+C:\Users\andre\source\repos\TestApi12\TestApi12\bin\Debug\TestApi12.exe
+C:\Users\andre\source\repos\TestApi12\TestApi12\bin\Debug\TestApi12.pdb
+C:\Users\andre\source\repos\TestApi12\TestApi12\obj\Debug\TestApi12.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\TestApi12\TestApi12\obj\Debug\TestApi12.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\source\repos\TestApi12\TestApi12\obj\Debug\TestApi12.Form1.resources
+C:\Users\andre\source\repos\TestApi12\TestApi12\obj\Debug\TestApi12.Properties.Resources.resources
+C:\Users\andre\source\repos\TestApi12\TestApi12\obj\Debug\TestApi12.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\TestApi12\TestApi12\obj\Debug\TestApi12.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\TestApi12\TestApi12\obj\Debug\TestApi12.exe
+C:\Users\andre\source\repos\TestApi12\TestApi12\obj\Debug\TestApi12.pdb
+C:\Users\andre\source\repos\TestApi12\TestApi12\bin\Debug\Newtonsoft.Json.dll
+C:\Users\andre\source\repos\TestApi12\TestApi12\bin\Debug\Newtonsoft.Json.xml
+C:\Users\andre\source\repos\TestApi12\TestApi12\obj\Debug\TestApi12.csproj.CopyComplete

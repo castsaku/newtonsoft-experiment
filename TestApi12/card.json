@@ -1,0 +1,29 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "name": "Shonen Jump promotional cards",
+      "print_tag": "JMP-EN001",
+      "rarity": "Ultra Rare",
+      "price_data": {
+        "status": "success",
+        "data": {
+          "listings": [],
+          "prices": {
+            "high": 114.95,
+            "low": 114.95,
+            "average": 114.95,
+            "shift": 0,
+            "shift_3": 0,
+            "shift_7": 0,
+            "shift_30": 0,
+            "shift_90": 0,
+            "shift_180": 0,
+            "shift_365": 0,
+            "updated_at": "2013-07-19 21:07:11 -0600"
+          }
+        }
+      }
+    }
+  ]
+}
